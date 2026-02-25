@@ -52,5 +52,5 @@ Inserts should be embedded in the marked places.
 
 
 
-![screenshot](photos/wild5.jpg)
-![screenshot](photos/wild6.jpg)
+![screenshot](photos/wild5.png)
+![screenshot](photos/wild6.png)
