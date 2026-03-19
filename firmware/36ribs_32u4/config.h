@@ -8,8 +8,8 @@
 #define MATRIX_ROWS 4
 #define MATRIX_COLS 10
 
-#define MATRIX_ROW_PINS { 2, 3, 9, 21 }
-#define MATRIX_COL_PINS {4, 5, 6, 7, 8, 23, 20, 22, 26, 27}
+#define MATRIX_ROW_PINS { 2, 3, 9, 10 }
+#define MATRIX_COL_PINS {4, 5, 6, 7, 8, 16, 14, 15, A0, A1}
 
 #define DIODE_DIRECTION COL2ROW
 
