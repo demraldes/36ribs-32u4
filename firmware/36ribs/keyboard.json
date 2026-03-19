@@ -5,8 +5,8 @@
   "matrix": {
     "rows": 4,
     "cols": 10,
-    "row_pins": ["GP2", "GP3", "GP9", "GP21"],
-    "col_pins": ["GP4", "GP5", "GP6", "GP7", "GP8", "GP23", "GP20", "GP22", "GP26", "GP27"],
+    "row_pins": ["D1", "D0", "B5", "B6"],
+    "col_pins": ["D4", "C6", "D7", "E6", "B4", "B2", "B3", "B1", "F7", "F6"],
     "diode_direction": "COL2ROW"
   },
   "layouts": {
