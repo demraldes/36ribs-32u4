@@ -9,3 +9,7 @@
 // Matrix configuration
 #define MATRIX_ROWS 4
 #define MATRIX_COLS 10
+
+#define DYNAMIC_KEYMAP_LAYER_COUNT 4
+#define VIAL_TAP_DANCE_ENTRIES 6
+#define VIAL_COMBO_ENTRIES 10
