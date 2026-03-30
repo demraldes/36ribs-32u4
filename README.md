@@ -1,4 +1,4 @@
-This is my fork of TMRZ's 36ribs keyboard. I have been updating the firmware for my own use to work with a Atmega 32u4 promicro, as an alternative to the RP2040 version. While this is partially tested, I have not built one to completion yet, though I do have a working flash on my controller.
+This is my fork of TMRZ's 36ribs keyboard. I have been updating the firmware for my own use to work with an Atmega 32u4 promicro, as an alternative to the RP2040 version. While this is partially tested, I have not built one to completion yet, though I do have a working flash on my controller.
 ---
 
 # 36ribs
